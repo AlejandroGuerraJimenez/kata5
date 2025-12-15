@@ -1,5 +1,7 @@
-package software.ulpgc.kata5.application;
+package software.ulpgc.kata5.application.Stream;
 
+import software.ulpgc.kata5.application.Desktop;
+import software.ulpgc.kata5.application.MovieDeserializer;
 import software.ulpgc.kata5.architecture.Model.Movie;
 import software.ulpgc.kata5.architecture.viewmodel.Histogram;
 import software.ulpgc.kata5.architecture.viewmodel.HistogramBuilder;
