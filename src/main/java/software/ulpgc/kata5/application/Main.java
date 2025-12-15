@@ -1,10 +1,9 @@
-package software.ulpgc.kata4.application;
+package software.ulpgc.kata5.application;
 
-import software.ulpgc.kata4.architecture.Model.Movie;
-import software.ulpgc.kata4.architecture.viewmodel.Histogram;
-import software.ulpgc.kata4.architecture.viewmodel.HistogramBuilder;
+import software.ulpgc.kata5.architecture.Model.Movie;
+import software.ulpgc.kata5.architecture.viewmodel.Histogram;
+import software.ulpgc.kata5.architecture.viewmodel.HistogramBuilder;
 
-import java.util.List;
 import java.util.stream.Stream;
 
 public class Main {

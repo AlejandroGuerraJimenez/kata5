@@ -1,9 +1,8 @@
-package software.ulpgc.kata4.architecture.viewmodel;
+package software.ulpgc.kata5.architecture.viewmodel;
 
-import software.ulpgc.kata4.architecture.Model.Movie;
+import software.ulpgc.kata5.architecture.Model.Movie;
 
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.function.Function;
 import java.util.stream.Stream;

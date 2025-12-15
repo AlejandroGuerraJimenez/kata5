@@ -1,6 +1,6 @@
-package software.ulpgc.kata4.application;
+package software.ulpgc.kata5.application;
 
-import software.ulpgc.kata4.architecture.Model.Movie;
+import software.ulpgc.kata5.architecture.Model.Movie;
 
 public class MovieDeserializer {
 

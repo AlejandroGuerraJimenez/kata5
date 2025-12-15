@@ -1,13 +1,11 @@
-package software.ulpgc.kata4.application;
+package software.ulpgc.kata5.application;
 
-import software.ulpgc.kata4.architecture.Model.Movie;
-import software.ulpgc.kata4.architecture.io.Store;
+import software.ulpgc.kata5.architecture.Model.Movie;
+import software.ulpgc.kata5.architecture.io.Store;
 
 import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.function.Function;
 import java.util.stream.Stream;
 import java.util.zip.GZIPInputStream;
